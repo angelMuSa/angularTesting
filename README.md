@@ -1,6 +1,8 @@
-# myApp
+# angularTesting
 
 **Generated from Angel Munoz**
+  - Testing app angular 1.5 with mocha, chai and sinon
+  - App generated with hotTowel John Papa
 
 ## Running App
 
